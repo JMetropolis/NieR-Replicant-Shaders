@@ -11,4 +11,4 @@
 ## NierFoliage
 * Simple foliage shader which applies some movement using a noise texture and a configurable subsurface effect.
 # Usage
-* When choosing shaders for your material you can find them in: JCity/Nier.
+When choosing shaders for your material you can find them in: JCity/Nier.
