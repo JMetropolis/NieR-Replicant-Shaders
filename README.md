@@ -10,3 +10,5 @@
 * This shader uses the RGBA splat texture to blend 4 different sets of textures.
 ## NierFoliage
 * Simple foliage shader which applies some movement using a noise texture and a configurable subsurface effect.
+# Usage
+* When choosing shaders for your material you can find them in: JCity/Nier.
